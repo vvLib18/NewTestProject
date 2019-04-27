@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b558f5cdfd8284ccc8c7dd5639070a91, type: 3}
+  m_Name: Default Skin
+  m_EditorClassIdentifier: 
+  buttonSprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
+  buttonSpriteState:
+    m_HighlightedSprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+    m_PressedSprite: {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
+    m_DisabledSprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  defaultColor: {r: 1, g: 0, b: 0, a: 0}
+  confirmColor: {r: 0.061599493, g: 1, b: 0, a: 0}
+  declineColor: {r: 0, g: 0.37079066, b: 0.8679245, a: 0}
+  warningColor: {r: 0.8867924, g: 0, b: 0.8599098, a: 0}
